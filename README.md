@@ -4,7 +4,7 @@
 
 # Functions ⚡
 
-+ **Display Section**
++ **Display Section**                          
   • displays a section title and checks if the output is empty. Based on the result, it highlights the title in either red or green color to indicate the status of the output
 
 + **Serial Output**                          
