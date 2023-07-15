@@ -1,0 +1,4 @@
+﻿  sechex.cpp
+C:\Users\tickr\source\repos\SecHex-SerialChecker\SecHex-SerialChecker\sechex.cpp(31,66): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\tickr\source\repos\SecHex-SerialChecker\SecHex-SerialChecker\sechex.cpp(31,66): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "const int", Datenverlust möglich
+  SecHex-SerialChecker.vcxproj -> C:\Users\tickr\source\repos\SecHex-SerialChecker\x64\Debug\SecHex-SerialChecker.exe
