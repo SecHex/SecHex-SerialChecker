@@ -33,4 +33,5 @@
   •  **EFI** Number                          
   •  **SMBIOS** Number                          
 
-  
+  ![Screenshot 2023-07-15 154923 (1)](https://github.com/SecHex/SecHex-SerialChecker/assets/96635023/4936561c-9376-4c5a-9c72-e4b7590eca46)
+
